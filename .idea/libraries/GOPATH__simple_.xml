@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;simple&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../learn-go" />
+      <root url="file://$PROJECT_DIR$/../quickstart" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../learn-go" />
+      <root url="file://$PROJECT_DIR$/../quickstart" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
